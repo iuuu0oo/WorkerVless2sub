@@ -1,12 +1,12 @@
 
 let 快速订阅访问入口 = ['auto'];
-let addresses = [];
-let addressesapi = [];
+let addresses = 'https://cab.qd.je/ip.txt?token=123456li88&t=1775347773534';
+let addressesapi = 'https://cab.qd.je/ip.txt?token=123456li88&t=1775347773534';
 
-let addressesnotls = [];
-let addressesnotlsapi = [];
+let addressesnotls = 'https://cab.qd.je/ip.txt?token=123456li88&t=1775347773534';
+let addressesnotlsapi = 'https://cab.qd.je/ip.txt?token=123456li88&t=1775347773534';
 
-let addressescsv = [];
+let addressescsv = 'https://cab.qd.je/ip.txt?token=123456li88&t=1775347773534';
 let DLS = 7;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
